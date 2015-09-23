@@ -1,0 +1,1 @@
+PyPlex is an ongoing effort to build a fast robust simplex solver in Python
